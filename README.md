@@ -71,7 +71,7 @@ Additionally, Scikit-learn is used for evaluation metrics and performance analys
 
 ---
 
-## Project Structure
+### Project Structure
 
 pothole-detection/
 │── notebook.ipynb
