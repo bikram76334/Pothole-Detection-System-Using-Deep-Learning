@@ -71,19 +71,6 @@ Additionally, Scikit-learn is used for evaluation metrics and performance analys
 
 ---
 
-### Project Structure
-
-pothole-detection/
-│── notebook.ipynb
-│── README.md
-│── requirements.txt
-│── results/
-│ ├── confusion_matrix.png
-│ ├── roc_curve.png
-│ ├── sample_predictions.png
-
-
----
 
 ## Future Scope
 - Real-time pothole detection using webcam  
